@@ -1,1 +1,1 @@
-This is a wifi user login interface for internet user management.
+## Wifi user login interface for internet user management.
